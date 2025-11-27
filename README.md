@@ -14,11 +14,11 @@ int main() {
 
     printf("Welcome to Our Restaurant!\n");
     printf("--- Menu ---\n");
-    printf("1. Burger: %.2f\n", burger_price);
-    printf("2. Pizza: %.2f\n", pizza_price);
-    printf("3. Pasta: %.2f\n", pasta_price);
-    printf("4. Soda: %.2f\n", soda_price);
-    printf("5.Noodles:%.2f\n", noodles_price);
+    printf("1. Burger: %.f\n", burger_price);
+    printf("2. Pizza: %.f\n", pizza_price);
+    printf("3. Pasta: %.f\n", pasta_price);
+    printf("4. Soda: %.f\n", soda_price);
+    printf("5.Noodles:%.f\n", noodles_price);
     printf("------------\n\n");
 
     
